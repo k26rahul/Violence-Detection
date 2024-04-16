@@ -1,0 +1,12 @@
+.navbar-wrapper {
+    background-color: rgb(43, 43, 43);
+}
+
+.navbar-wrapper p {
+    margin: auto;
+    width: fit-content;
+    font-size: 1.5rem;
+    padding: 0.5rem 0;  
+    font-weight: bold;
+    color: #E3E2DF;
+}

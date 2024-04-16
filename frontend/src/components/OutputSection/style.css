@@ -1,0 +1,44 @@
+.output-wrapper {
+    width: 450px;
+    height: 450px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.961);
+    box-shadow: 0 0 8px -3px gray;
+    padding: 0 0.5rem;
+}
+
+.output-header {
+    padding: 0.6rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border-bottom: 0.5px solid rgba(128, 128, 128, 0.199);
+}
+
+.output-header h3 {
+    margin: auto;
+}
+
+.dots {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}
+
+.dot {
+    width: 16px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+
+.dot:first-child {
+    background-color: #FF605C;
+}
+
+.dot:nth-child(2) {
+    background-color: #FFBD44;
+}
+
+.dot:last-child {
+    background-color: #00CA4E;
+}

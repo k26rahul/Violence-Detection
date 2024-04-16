@@ -1,0 +1,8 @@
+.main-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem 0;
+    max-width: 1200px;
+    margin: auto;
+}
