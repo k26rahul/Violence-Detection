@@ -1,0 +1,1 @@
+ML model for real-time violence detection in video feed, submitted for "Dev Gathering '24" Hackathon by MLSA MIET.
